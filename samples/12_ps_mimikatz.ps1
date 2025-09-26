@@ -1,0 +1,1 @@
+Write-Host 'mimikatz' ; $x='sekurlsa::logonpasswords'

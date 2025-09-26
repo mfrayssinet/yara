@@ -1,0 +1,1 @@
+contact to api.telegram.org/botXXX and discordapp.com/api/webhooks/YYY

